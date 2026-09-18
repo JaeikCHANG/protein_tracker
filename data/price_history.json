@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T09:50:00+09:00",
+  "lastUpdated": "2026-09-18T10:10:00+09:00",
   "products": {
     "now-sports-wpi-5lb-unflavored": {
       "brand": "NOW Sports",
@@ -75,7 +75,7 @@
     },
     "optimum-nutrition-goldstandard-whey-5lb-extrememilkchoc": {
       "brand": "Optimum Nutrition",
-      "productType": "WPI블렌드",
+      "productType": "WPC",
       "flavor": "Extreme Milk Chocolate",
       "sizeLabel": "2.27kg(5lb)",
       "servingPowderG": 30.4,
@@ -89,7 +89,25 @@
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "없음",
-      "note": "ON 공식몰(optimumnutrition.co.kr)은 2lb(29회분)만 판매 중, 64,290원, 25g당 2,309원으로 더 비쌈. Coupang 5lb는 배송비포함 249,120원으로 iHerb보다 비쌈."
+      "note": "ON 공식몰(optimumnutrition.co.kr)은 2lb(29회분)만 판매 중, 64,290원, 25g당 2,309원으로 더 비쌈. Coupang 5lb는 배송비포함 249,120원으로 iHerb보다 비쌈. 분류수정(2026-09-18): Gold Standard 100% Whey는 WPC로 분류, WPI는 별도 제품(Gold Standard 100% Isolate)."
+    },
+    "optimum-nutrition-goldstandard-isolate-3lb-chocolatebliss": {
+      "brand": "Optimum Nutrition",
+      "productType": "WPI",
+      "flavor": "Chocolate Bliss",
+      "sizeLabel": "1.36kg(3lb, 44회분)",
+      "servingPowderG": 31,
+      "servingProteinG": 25,
+      "servings": 44,
+      "source": "iHerb Korea",
+      "url": "https://kr.iherb.com/pr/optimum-nutrition-gold-standard-100-isolate-chocolate-bliss-3-lb-1-36-kg/85064",
+      "lastSeenDate": "2026-09-18",
+      "lastSeenPrice25g": 3186,
+      "lastSeenFinalPrice": 139879,
+      "lastAlertedDate": null,
+      "lastAlertedPrice25g": null,
+      "certification": "Informed Choice - Trusted by Sport",
+      "note": "신규 추가. 5lb 사이즈 없음(3lb가 최대). Whey(WPC, 2,318원/25g)보다 오히려 더 비쌈(기다림 등급). 사용자가 ON WPC/WPI 제품명 구분을 지적해서 발견."
     },
     "californiagold-nutrition-wpi-5lb-unflavored": {
       "brand": "California Gold Nutrition",
