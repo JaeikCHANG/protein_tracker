@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T10:10:00+09:00",
+  "lastUpdated": "2026-09-18T19:30:00+09:00",
   "products": {
     "now-sports-wpi-5lb-unflavored": {
       "brand": "NOW Sports",
@@ -17,25 +17,25 @@
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "GMP(Informed-Sport 표기는 이번 조사에서 미확인)",
-      "note": "쿠팡 로켓직구/iHerb 원가는 봇차단·JS렌더링으로 오늘 확인 불가. 다나와 오픈마켓 최저가(137,090원, 무료배송)로 대체 확인. 등급: 보통(25g당 1,692원). 소용량(1.2lb) iHerb $36.28은 신뢰도 낮아 비교 보류."
+      "note": "오늘도 iHerb/쿠팡 직접 접근은 봇차단으로 실패, 다나와 오픈마켓 최저가(137,090원, 판매처 6곳 활성)로 재확인 — 전일과 동일가. 등급: 기다림(WPI 기준 >1,650원). 소용량(1.2lb)은 품절."
     },
     "dymatize-elite-5lb-richchocolate": {
       "brand": "Dymatize",
-      "productType": "WPC블렌드",
-      "flavor": "Rich Chocolate",
-      "sizeLabel": "2.3kg(5lb, 63회분)",
-      "servingPowderG": 36.5,
+      "productType": "WPC",
+      "flavor": "고메 바닐라(Gourmet Vanilla) — 오늘 최저가 맛",
+      "sizeLabel": "2.3kg(5lb, 67회분)",
+      "servingPowderG": 34,
       "servingProteinG": 25,
-      "servings": 63,
-      "source": "Coupang 로켓직구",
-      "url": "https://www.coupang.com",
+      "servings": 67,
+      "source": "Coupang(쿠차 가격집계 교차확인)",
+      "url": "https://www.coupang.com/vp/products/4310001623",
       "lastSeenDate": "2026-09-18",
-      "lastSeenPrice25g": 1624,
-      "lastSeenFinalPrice": 102330,
+      "lastSeenPrice25g": 1537,
+      "lastSeenFinalPrice": 103000,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "없음",
-      "note": "사용자 실제 쿠팡 앱 스크린샷으로 확인(18%할인, 정가124,800원). 같은 제품 고메바닐라(67회분)는 103,000원=25g당1,537원으로 더 저렴(보통 등급) — 맛마다 회분수 달라 단가 다름, 바닐라가 유리. WOW가입쿠폰가 80,330원은 신규가입 한정이라 기준가 제외."
+      "certification": "Informed-Choice(제조사 표기)",
+      "note": "분류 단순화(2026-09-18): WPC블렌드→WPC로 통합. 고메바닐라(67회분) 103,000원=25g당1,537원 재확인(전일과 동일). 리치초콜릿(63회분)은 102,330원=25g당1,624원으로 차선. 쿠팡 상세페이지 직접접근은 403 차단되어 쿠차 집계로 대체 확인. 등급: 보통."
     },
     "nutricost-wpc-5lb-unflavored": {
       "brand": "Nutricost",
@@ -50,10 +50,10 @@
       "lastSeenDate": "2026-09-18",
       "lastSeenPrice25g": 1249,
       "lastSeenFinalPrice": 86208,
-      "lastAlertedDate": null,
-      "lastAlertedPrice25g": null,
+      "lastAlertedDate": "2026-09-18",
+      "lastAlertedPrice25g": 1249,
       "certification": "없음",
-      "note": "사용자 실제 iHerb 앱 스크린샷으로 확인. 정가110,523원, 'AGAIN22' 코드 22%할인 자동적용가 86,208원(로그인/계정무관하게 검색결과에 바로 표시 — 상시코드로 판단). 좋음 등급(WPC 1,200~1,400원 구간), 매우좋음(1,200원) 근접. 기존에 Nutricost는 WPI만 추적하고 이 WPC 라인을 놓치고 있었음."
+      "note": "정가110,523원, 'AGAIN22' 코드 22%할인 자동적용가 86,208원=25g당1,249원(로그인/계정무관 상시코드로 판단). 오늘 iHerb/쿠팡 직접 재확인은 봇차단으로 실패, 전일값 유지. 신규 등급기준(WPC ≤1,250원=매우좋음) 최초 진입으로 알림 발송(2026-09-18)."
     },
     "myprotein-impact-whey-5kg-unflavored": {
       "brand": "MyProtein",
@@ -76,38 +76,38 @@
     "optimum-nutrition-goldstandard-whey-5lb-extrememilkchoc": {
       "brand": "Optimum Nutrition",
       "productType": "WPC",
-      "flavor": "Extreme Milk Chocolate",
-      "sizeLabel": "2.27kg(5lb)",
+      "flavor": "더블 리치 초콜릿(Double Rich Chocolate) — 쿠팡 최저가 기준",
+      "sizeLabel": "2.27kg(5lb, 74회분)",
       "servingPowderG": 30.4,
       "servingProteinG": 24,
-      "servings": 75,
-      "source": "iHerb Korea",
-      "url": "https://kr.iherb.com/pr/optimum-nutrition-gold-standard-100-whey-extreme-milk-chocolate-5-lb-2-27-kg",
+      "servings": 74,
+      "source": "Coupang(다나와 교차확인)",
+      "url": "https://prod.danawa.com/info/?pcode=16811615",
       "lastSeenDate": "2026-09-18",
-      "lastSeenPrice25g": 2300,
-      "lastSeenFinalPrice": 166906,
+      "lastSeenPrice25g": 1446,
+      "lastSeenFinalPrice": 102700,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "없음",
-      "note": "ON 공식몰(optimumnutrition.co.kr)은 2lb(29회분)만 판매 중, 64,290원, 25g당 2,309원으로 더 비쌈. Coupang 5lb는 배송비포함 249,120원으로 iHerb보다 비쌈. 분류수정(2026-09-18): Gold Standard 100% Whey는 WPC로 분류, WPI는 별도 제품(Gold Standard 100% Isolate)."
+      "note": "오늘 처음 쿠팡 채널 확인 — iHerb(전일 2,300원/25g)보다 훨씬 저렴한 1,446원/25g(보통 등급). ON 공식몰(글로벌사이트로 통합됨, optimumnutrition.com/ko-kr)은 2lb만 확인 64,290원=2,309원, 5lb 자체가는 JS변동가라 확인 불가. 배송비(9,900원 가정) 포함시 1,585원."
     },
     "optimum-nutrition-goldstandard-isolate-3lb-chocolatebliss": {
       "brand": "Optimum Nutrition",
       "productType": "WPI",
-      "flavor": "Chocolate Bliss",
+      "flavor": "Chocolate Bliss / Rich Vanilla(공식몰 동일가) — 쿠팡은 맛 미상 추정",
       "sizeLabel": "1.36kg(3lb, 44회분)",
-      "servingPowderG": 31,
+      "servingPowderG": 30,
       "servingProteinG": 25,
       "servings": 44,
-      "source": "iHerb Korea",
+      "source": "Coupang(다나와 교차확인, 가격 변동폭 있음)",
       "url": "https://kr.iherb.com/pr/optimum-nutrition-gold-standard-100-isolate-chocolate-bliss-3-lb-1-36-kg/85064",
       "lastSeenDate": "2026-09-18",
-      "lastSeenPrice25g": 3186,
-      "lastSeenFinalPrice": 139879,
+      "lastSeenPrice25g": 2349,
+      "lastSeenFinalPrice": 103350,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "Informed Choice - Trusted by Sport",
-      "note": "신규 추가. 5lb 사이즈 없음(3lb가 최대). Whey(WPC, 2,318원/25g)보다 오히려 더 비쌈(기다림 등급). 사용자가 ON WPC/WPI 제품명 구분을 지적해서 발견."
+      "note": "5lb 사이즈 없음(3lb가 최대, 소용량도 없음). 오늘 쿠팡 최저가(다나와 교차, 조회마다 99,170~104,180원으로 변동 관측, 대표값 103,350원=25g당2,349원) 확인. ON 공식몰 129,630원=2,946원. iHerb는 오늘 봇차단으로 재확인 실패, 전일값(139,879원=3,186원) 참고. 여전히 기다림 등급."
     },
     "californiagold-nutrition-wpi-5lb-unflavored": {
       "brand": "California Gold Nutrition",
@@ -138,12 +138,12 @@
       "source": "iHerb Korea",
       "url": "https://kr.iherb.com/pr/nutricost-whey-protein-isolate-unflavored-5-lb-2-268-g/145297",
       "lastSeenDate": "2026-09-18",
-      "lastSeenPrice25g": 2028,
-      "lastSeenFinalPrice": 158163,
+      "lastSeenPrice25g": 1581,
+      "lastSeenFinalPrice": 123367,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "없음",
-      "note": "1회 제공량 실제로는 35g분말/30g단백질/65회분(과거 잘못된 30g/25g 가정 수정). 정가 158,163원=25g당 2,028원(기다림). 카카오채널 22%쿠폰 적용시 123,367원=25g당 1,581원(보통, 아직 좋음/매우좋음 미달)."
+      "note": "1회 제공량 35g분말/30g단백질/65회분. 반복사용 가능 코드 AGAIN22(22%) 적용가 123,367원=25g당1,581원을 기준가로 채택(정가는 158,163원=2,028원). 오늘 iHerb/쿠팡 직접 재확인은 봇차단으로 실패, 전일 확인값 유지. 등급: 보통(좋음/매우좋음 미달)."
     },
     "now-foods-wpc-5lb-unflavored": {
       "brand": "NOW Foods",
@@ -161,7 +161,7 @@
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "없음",
-      "note": "품절(입고알림만 가능), 참고용 정가만 기록"
+      "note": "오늘도 품절 지속(ople.com 품절 표시, 다나와 판매점 0개, iHerb 봇차단으로 직접 재확인 불가). 참고용 정가 141,440원=25g당2,136원, 20%쿠폰가정시 113,152원=1,709원(모두 구매불가, 참고치)."
     },
     "bsn-syntha6-wpcblend-2.26kg-chocolatemilkshake": {
       "brand": "BSN",
@@ -183,21 +183,21 @@
     },
     "dymatize-iso100-wpiblend-2.3kg-vanillachocpb": {
       "brand": "Dymatize",
-      "productType": "WPI블렌드",
-      "flavor": "Gourmet Vanilla / Chocolate Peanut Butter",
-      "sizeLabel": "2.3kg(5lb, 76서빙)",
-      "servingPowderG": 32,
+      "productType": "WPI",
+      "flavor": "고메 초콜릿 / 퍼지 브라우니(동률 최저가) — 오늘 최저가 맛",
+      "sizeLabel": "2.3kg(5lb, 76회분)",
+      "servingPowderG": 30,
       "servingProteinG": 25,
       "servings": 76,
-      "source": "오픈마켓(다나와 집계, 신뢰도 중간 - 재검증 권장)",
+      "source": "Coupang(쿠차 가격집계 교차확인)",
       "url": "https://prod.danawa.com/info/?pcode=28992044",
       "lastSeenDate": "2026-09-18",
-      "lastSeenPrice25g": 2256,
-      "lastSeenFinalPrice": 171420,
+      "lastSeenPrice25g": 1717,
+      "lastSeenFinalPrice": 130510,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "Informed-Choice(제조사 라벨 기준, 실물 미확인)",
-      "note": "신규 추가 품목. 코코아 페블스맛은 181,120원으로 더 비쌈. 등급: 기다림(25g당 2,256원). 다나와 집계값 중 극단치(432,900원 등)는 비정상으로 판단해 제외."
+      "note": "분류 단순화(2026-09-18): WPI블렌드→WPI로 통합. 오늘 재조사 결과 고메초콜릿/퍼지브라우니 130,510원=25g당1,717원으로 전일 다나와 집계값(171,420원=2,256원, 이상치였을 가능성)보다 크게 저렴하게 재확인됨. iHerb 직접가격은 JS차단으로 확인 불가. 등급: 기다림(WPI 매우좋음 기준 1,350원 미달로 알림 대상 아님)."
     },
     "muscletech-nitrotech-wheygold-2.51kg-cookiesandcream": {
       "brand": "MuscleTech",
