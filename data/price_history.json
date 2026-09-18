@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T09:30:59+09:00",
+  "lastUpdated": "2026-09-18T09:50:00+09:00",
   "products": {
     "now-sports-wpi-5lb-unflavored": {
       "brand": "NOW Sports",
@@ -23,18 +23,37 @@
       "brand": "Dymatize",
       "productType": "WPC블렌드",
       "flavor": "Rich Chocolate",
-      "sizeLabel": "2.3kg(5lb)",
-      "servingPowderG": 42,
+      "sizeLabel": "2.3kg(5lb, 63회분)",
+      "servingPowderG": 36.5,
       "servingProteinG": 25,
-      "servings": 55,
-      "source": "Coupang 로켓직구(Coupang Global LLC, 관부가세 포함)",
-      "url": "https://www.coupang.com/vp/products/8288993222",
+      "servings": 63,
+      "source": "Coupang 로켓직구",
+      "url": "https://www.coupang.com",
       "lastSeenDate": "2026-09-18",
-      "lastSeenPrice25g": 2140,
-      "lastSeenFinalPrice": 117220,
+      "lastSeenPrice25g": 1624,
+      "lastSeenFinalPrice": 102330,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "없음"
+      "certification": "없음",
+      "note": "사용자 실제 쿠팡 앱 스크린샷으로 확인(18%할인, 정가124,800원). 같은 제품 고메바닐라(67회분)는 103,000원=25g당1,537원으로 더 저렴(보통 등급) — 맛마다 회분수 달라 단가 다름, 바닐라가 유리. WOW가입쿠폰가 80,330원은 신규가입 한정이라 기준가 제외."
+    },
+    "nutricost-wpc-5lb-unflavored": {
+      "brand": "Nutricost",
+      "productType": "WPC",
+      "flavor": "무맛",
+      "sizeLabel": "2,268g(5lbs, 69회분)",
+      "servingPowderG": 32.9,
+      "servingProteinG": 25,
+      "servings": 69,
+      "source": "iHerb Korea(앱)",
+      "url": "https://kr.iherb.com",
+      "lastSeenDate": "2026-09-18",
+      "lastSeenPrice25g": 1249,
+      "lastSeenFinalPrice": 86208,
+      "lastAlertedDate": null,
+      "lastAlertedPrice25g": null,
+      "certification": "없음",
+      "note": "사용자 실제 iHerb 앱 스크린샷으로 확인. 정가110,523원, 'AGAIN22' 코드 22%할인 자동적용가 86,208원(로그인/계정무관하게 검색결과에 바로 표시 — 상시코드로 판단). 좋음 등급(WPC 1,200~1,400원 구간), 매우좋음(1,200원) 근접. 기존에 Nutricost는 WPI만 추적하고 이 WPC 라인을 놓치고 있었음."
     },
     "myprotein-impact-whey-5kg-unflavored": {
       "brand": "MyProtein",
