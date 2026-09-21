@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T09:20:00+09:00",
+  "lastUpdated": "2026-09-21T11:05:00+09:00",
   "products": {
     "now-sports-wpi-5lb-unflavored": {
       "brand": "NOW Sports",
@@ -45,33 +45,33 @@
       "servingPowderG": 33,
       "servingProteinG": 25,
       "servings": 69,
-      "source": "iHerb Korea",
+      "source": "iHerb Korea(실제 브라우저로 직접 재확인)",
       "url": "https://kr.iherb.com/pr/nutricost-whey-protein-concentrate-unflavored-5-lb-2-268-g/140220",
-      "lastSeenDate": "2026-09-19",
-      "lastSeenPrice25g": 1294,
-      "lastSeenFinalPrice": 89288,
+      "lastSeenDate": "2026-09-21",
+      "lastSeenPrice25g": 1303,
+      "lastSeenFinalPrice": 89870,
       "lastAlertedDate": "2026-09-18",
       "lastAlertedPrice25g": 1249,
       "certification": "없음",
-      "note": "오늘(09-21)도 확인 실패(3일 연속) — iHerb JS렌더링으로 가격 미확인(우회 시도 안함), 쿠팡 403 차단, 다나와 무맛 SKU 미등록, nutricost.co.kr/nutricostmall.co.kr 503 오류 지속. 무맛 WPC는 5lb 단일사이즈만 존재 확인(소용량 비교 대상 자체 없음). 전일(09-19) 확인값(89,288원=25g당1,294원) 유지, 계속 재시도 필요."
+      "note": "로컬 실제 브라우저로 3일만에 재확인 성공(클라우드는 JS렌더링 한계로 09-19 이후 계속 실패했었음). 오늘 정가 112,338원(69회분) 확인, 상품페이지에 자동코드 미표시되어 스킬 규칙대로 20%쿠폰가정가 89,870원=25g당1,303원 채택. 09-19(1,294원) 대비 소폭 상승. 등급: 좋음."
     },
     "myprotein-impact-whey-5kg-unflavored": {
       "brand": "MyProtein",
       "productType": "WPC",
       "flavor": "무맛",
-      "sizeLabel": "2.5kg(83회분) — 공식몰 최대사이즈가 5kg에서 2.5kg로 축소됨",
+      "sizeLabel": "2x2.5kg(5kg, 166회분) — 5kg 옵션이 공식몰에 다시 등장함(09-19엔 최대 2.5kg뿐이었음)",
       "servingPowderG": 30.1,
       "servingProteinG": 23,
-      "servings": 83,
-      "source": "MyProtein Korea 공식몰",
+      "servings": 166,
+      "source": "MyProtein Korea 공식몰(장바구니 실가격 기준)",
       "url": "https://www.myprotein.co.kr/p/sports-nutrition/impact-whey-protein-powder/10530943/",
-      "lastSeenDate": "2026-09-19",
-      "lastSeenPrice25g": 2565,
-      "lastSeenFinalPrice": 195900,
+      "lastSeenDate": "2026-09-21",
+      "lastSeenPrice25g": 1414,
+      "lastSeenFinalPrice": 215970,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "Informed Choice",
-      "note": "오늘(09-21)도 무맛 옵션 직접 재확인 실패(공식몰 SPA 렌더링, 우회 시도 안함). 오픈마켓 2.5kg 참고가(197,300원)가 전일 공식몰가(195,900원)와 근접해 가격 안정성 간접 확인, 프로모션 배너(MP35, 추가 최대35%할인) 동일 유지 확인. 5kg 매물(219,900~224,880원)도 발견됐으나 공식 직영 여부 불확실(병행수입 가능성)하여 미채택. 전일(09-19) 값(195,900원=25g당2,565원) 유지, 브라우저 직접 재확인 권장."
+      "note": "로컬 실제 브라우저로 재확인 — 5kg(2x2.5kg/166회분) 옵션이 다시 나타남. 중요: 상품페이지 표시가(212,900원, 2.7kg/90회분 선택시)보다 **장바구니 담은 후 자동 적용되는 '선별 프로틴&아미노산 최대 60%OFF' 상시프로모션가가 훨씬 저렴**함을 확인 — 5kg 장바구니가 215,970원(38%할인)=25g당1,414원. 2.7kg(90회분)은 137,942원(40%)=25g당1,666원, 2.5kg(83회분)은 131,119원(40%)=25g당1,712원으로 5kg이 가장 유리. 09-19 기록(2,565원)은 상품페이지 표시가만 보고 산정한 오류였음 — 앞으로 MyProtein은 반드시 장바구니 실가격으로 확인할 것. 등급: 보통."
     },
     "optimum-nutrition-goldstandard-whey-5lb-extrememilkchoc": {
       "brand": "Optimum Nutrition",
@@ -117,15 +117,15 @@
       "servingPowderG": 30,
       "servingProteinG": 26,
       "servings": 30,
-      "source": "MyProtein Korea 공식몰",
+      "source": "MyProtein Korea 공식몰(장바구니 실가격 기준)",
       "url": "https://www.myprotein.co.kr/p/sports-nutrition/impact-whey-isolate/10530911/",
-      "lastSeenDate": "2026-09-19",
-      "lastSeenPrice25g": 4805,
-      "lastSeenFinalPrice": 149900,
+      "lastSeenDate": "2026-09-21",
+      "lastSeenPrice25g": 3136,
+      "lastSeenFinalPrice": 97833,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "Informed Choice",
-      "note": "오늘(09-21)도 무맛 옵션 직접 재확인 실패(공식몰 SPA 렌더링). 초콜릿오렌지 1kg 할인가(89,900원)가 전일과 완전 동일해 할인구조 유지 간접확인. 쿠팡 900g 매물(95,090원+배송비=105,090원)이 발견됐으나 '해외공급업체' 마켓플레이스 판매로 정식채널 여부 불확실, 전일 공식몰가(149,900원)와 3만원 이상 차이나 신뢰도 낮음(미채택). 전일(09-19) 값(149,900원=25g당4,805원) 유지, 브라우저 직접 재확인 권장. 무맛 프리미엄 구조 지속."
+      "note": "로컬 실제 브라우저로 재확인. 상품페이지 표시가는 149,900원(10%할인만 반영)이지만 장바구니 담으면 '최대 60%OFF' 상시프로모션이 자동 적용되어 실가격 97,833원(39%할인)=25g당3,136원 — 09-19 기록(4,805원, 상품페이지가만 보고 산정)보다 크게 저렴한 게 맞음, 이전 값은 오류. 여전히 무맛이 타 맛(초콜렛오렌지 89,900원)보다는 비쌈. 등급: 기다림."
     },
     "californiagold-nutrition-wpi-5lb-unflavored": {
       "brand": "California Gold Nutrition",
@@ -153,15 +153,15 @@
       "servingPowderG": 35,
       "servingProteinG": 30,
       "servings": 65,
-      "source": "iHerb Korea",
+      "source": "iHerb Korea(실제 브라우저로 직접 재확인)",
       "url": "https://kr.iherb.com/pr/nutricost-whey-protein-isolate-unflavored-5-lb-2-268-g/145297",
-      "lastSeenDate": "2026-09-19",
-      "lastSeenPrice25g": 1638,
-      "lastSeenFinalPrice": 127774,
+      "lastSeenDate": "2026-09-21",
+      "lastSeenPrice25g": 1649,
+      "lastSeenFinalPrice": 128608,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "없음",
-      "note": "오늘(09-21)도 확인 실패(3일 연속) — iHerb JS렌더링 미확인(우회 시도 안함), 쿠팡 403 차단, 다나와 무맛 SKU 미등록, nutricost.co.kr 계열 사이트 접근 오류 지속. 소용량(2lb/907g)은 iHerb 페이지 존재하나 원화가 미노출(USD $59.95만 확인)로 비교 불가. 전일(09-19) 확인값(127,774원=25g당1,638원) 유지, 계속 재시도 필요."
+      "note": "로컬 실제 브라우저로 3일만에 재확인 성공. 오늘 정가 160,760원(65회분, 1회 30g단백질) 확인, 20%쿠폰가정가 128,608원=1회당1,979원=25g당1,649원 채택(정가 기준은 25g당2,061원). 09-19(1,638원) 대비 거의 동일. 등급: 보통(1,650원 문턱 바로 아래)."
     },
     "now-foods-wpc-5lb-unflavored": {
       "brand": "NOW Foods",
