@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T09:16:21+09:00",
+  "lastUpdated": "2026-09-26T09:14:46+09:00",
   "products": {
     "now-sports-wpi-5lb-unflavored": {
       "brand": "NOW Sports",
@@ -9,33 +9,33 @@
       "servingPowderG": 28,
       "servingProteinG": 25,
       "servings": 81,
-      "source": "다나와 집계 최저가(토탈박스, 네이버페이) — iHerb Korea 원본 URL curl 직접 재확인 결과 오늘도 품절(OutOfStock), 어제 보고된 '대체상품 리다이렉트' 현상은 재현되지 않았고 자체 상품페이지가 정상 로드되나 재고상태 자체가 품절로 재확인됨",
+      "source": "다나와 원본 페이지 직접 fetch(토탈박스, 네이버페이) — iHerb Korea 원본 HTML curl 재확인 결과 오늘도 품절(OutOfStock)",
       "url": "https://prod.danawa.com/info/?pcode=18961259",
-      "lastSeenDate": "2026-09-25",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 1692,
       "lastSeenFinalPrice": 137090,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "Informed Sport - We Test You Trust 인증, cGMP 인증(iHerb 상품설명 확인)",
-      "note": "다나와 집계 최저가(토탈박스) 137,090원(무료배송), 어제와 완전 동일가, 변동 없음=25g당1,692원. iHerb Korea 원본 URL curl 재파싱 결과 5lb(ID 1160), 1.2lb(544g, ID 37837) 모두 재고상태 OutOfStock으로 재확인(가격 미노출이라 쿠폰가정 계산 불가). 등급: 기다림(>1,650원)이라 알림 없음."
+      "certification": "Informed Sport - We Test You Trust 인증 확인(cGMP 문구는 오늘 페이지 텍스트에서 직접 검출되지 않아 확인 보류, 배지 이미지 형태일 가능성)",
+      "note": "다나와 137,090원(토탈박스, 무료배송), 어제와 완전 동일가, 변동 없음=25g당1,692원. G마켓155,480원(+9,900배송)/11번가149,170원보다 저렴. iHerb Korea 5lb(ID 1160)/1.2lb(544g, ID 37837) 모두 재고상태 OutOfStock 재확인. 쿠팡/G마켓/옥션/네이버쇼핑 직접 검색은 403/418 봇차단으로 확인 불가. 등급: 기다림(>1,650원)이라 알림 없음."
     },
     "dymatize-elite-5lb-richchocolate": {
       "brand": "Dymatize",
       "productType": "WPC",
-      "flavor": "고메 바닐라(Gourmet Vanilla) — 무맛 없음, 리치 초콜릿(100,040원)보다 90원 저렴한 최저단가 맛으로 선택(어제와 순위 유사)",
+      "flavor": "고메 바닐라(Gourmet Vanilla) — 무맛 없음, 리치 초콜릿(100,040원)보다 120원 저렴한 최저단가 맛으로 선택",
       "sizeLabel": "2.3kg(5lb, 67회분)",
       "servingPowderG": 34,
       "servingProteinG": 25,
       "servings": 67,
-      "source": "쿠팡 실시간 가격트래커(cowlr.kr) — iHerb 해당 상품 URL 404(페이지 없음, 단종 가능성) 재확인, MAP정책 추정과 별개로 접근 자체 불가",
+      "source": "쿠팡 실시간 가격트래커(cowlr.kr) — 쿠팡 원본 페이지 직접 접근은 403 봇차단, iHerb 해당 상품 URL은 페이지 존재하나 본문 절단으로 가격/재고 확인 불가",
       "url": "https://www.cowlr.kr/protein/135",
-      "lastSeenDate": "2026-09-25",
-      "lastSeenPrice25g": 1492,
-      "lastSeenFinalPrice": 99950,
+      "lastSeenDate": "2026-09-26",
+      "lastSeenPrice25g": 1491,
+      "lastSeenFinalPrice": 99920,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "Dymatize 라인 자체는 Informed-Choice - Trusted by Sport 인증 대상이나, 오늘 국내 판매채널(쿠팡) 페이지에서 인증마크 노출 직접 재확인은 못함",
-      "note": "쿠팡 실시간 가격트래커(cowlr.kr, 09/25 확인) 고메 바닐라 99,950원=25g당1,492원. 어제(99,920원=1,491원) 대비 +30원(+0.03%)로 사실상 보합(하락추세 이어지지 않음). 소용량(907g) 검색결과 신뢰도 낮은 값(67,810~253,600원)만 확인되어 채택 불가, 대용량이 여전히 유리한 것으로 추정. 등급: 보통(1,400~1,550원)이라 알림 없음."
+      "certification": "Informed-Choice(Trusted by Sport) — choice.wetestyoutrust.com에 'Dymatize Elite 100% Protein' 등재 재확인, 단 쿠팡 원본페이지 배지 노출은 403차단으로 미확인",
+      "note": "쿠팡 실시간 가격트래커(cowlr.kr, 09/26 확인) 고메 바닐라 99,920원=25g당1,491원 — 어제(99,950원=1,492원) 대비 -30원으로 사실상 보합. 소용량(907g) 여전히 신뢰도 낮은 값(67,810~253,600원 편차)만 확인되어 채택 불가. 등급: 보통(1,400~1,550원)이라 알림 없음."
     },
     "nutricost-wpc-5lb-unflavored": {
       "brand": "Nutricost",
@@ -47,13 +47,13 @@
       "servings": 69,
       "source": "iHerb Korea(원본 HTML/JSON-LD 직접 파싱으로 재확인)",
       "url": "https://kr.iherb.com/pr/nutricost-whey-protein-concentrate-unflavored-5-lb-2-268-g/140220",
-      "lastSeenDate": "2026-09-25",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 1303,
       "lastSeenFinalPrice": 89874,
       "lastAlertedDate": "2026-09-18",
       "lastAlertedPrice25g": 1249,
-      "certification": "없음 — 오늘 재확인, 페이지의 Informed-Sport/NSF 관련 문구는 전 상품 공통 팝업 템플릿일 뿐 이 제품 실제 인증 배지 아님(Gluten-Free, Non-GMO만 표기)",
-      "note": "iHerb Korea 원본 JSON-LD 직접 파싱(curl) 재확인, 정가112,342원(어제와 동일), 재고 InStock. 20%쿠폰가정가 89,874원=25g당1,303원 — 어제와 완전 동일, 변동 없음. 무맛 소용량(1~2lb) 옵션 자체가 없음(5lb 단일). 등급: 좋음(1,250~1,400원) — 매우좋음 기준(≤1,250원) 미달, lastAlertedPrice25g(1,249원)보다 높아 알림 없음."
+      "certification": "없음 — 오늘 재확인, cert-list 영역 빈 목록으로 렌더링됨, 페이지의 Informed-Sport 문구는 전 상품 공통 팝업 템플릿(Gluten-Free, Non-GMO만 실제 표기)",
+      "note": "iHerb Korea 원본 JSON-LD 직접 파싱(curl) 재확인, 정가112,342원(어제와 동일), 재고 InStock. 20%쿠폰가정가 89,874원=25g당1,303원 — 어제와 완전 동일, 변동 없음. 무맛 2lb(907g) 버전은 오늘 HTTP 410 + '판매가 중단된 상품' 문구로 완전 단종 확정(어제는 단순 '옵션 없음'). 등급: 좋음(1,250~1,400원) — 매우좋음 기준(≤1,250원) 미달, lastAlertedPrice25g(1,249원)보다 높아 알림 없음."
     },
     "myprotein-impact-whey-5kg-unflavored": {
       "brand": "MyProtein",
@@ -63,15 +63,15 @@
       "servingPowderG": 30.1,
       "servingProteinG": 23,
       "servings": 166,
-      "source": "MyProtein Korea 공식몰 — Playwright 브라우저 자동화로 실제 장바구니 담기 후 할인코드(FESTIVAL) 수동 입력까지 시뮬레이션하여 결제 직전 실가 직접 검증(오늘 최초 성공)",
-      "url": "https://www.myprotein.co.kr/p/sports-nutrition/impact-whey-protein-powder/10530943/",
-      "lastSeenDate": "2026-09-25",
+      "source": "MyProtein Korea 공식몰 — 오늘은 브라우저 자동화 도구 미제공으로 실제 장바구니 접속은 못하고, curl로 원본 HTML의 JSON-LD 구조화데이터 + 배너 할인율(FESTIVAL 36%)을 직접 파싱해 교차검증(계산값이 어제 실측 장바구니가와 정확히 일치)",
+      "url": "https://www.myprotein.co.kr/p/sports-nutrition/impact-whey-protein-powder/10530943/?variation=14302236",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 1387,
       "lastSeenFinalPrice": 211776,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "Informed Choice",
-      "note": "오늘 최초로 장바구니 실가 검증 성공(Playwright). 상품페이지 표시가 330,900원(정가349,900원)이나, 장바구니에서 시즌 프로모션 코드 FESTIVAL(수동입력 필요, 자동적용 아님이나 상시 공개 프로모션으로 반복 사용 가능해 기준가에 반영) 적용 시 211,776원(정가 대비 약39%할인)=25g당1,387원. 어제 미검증 추정치(약211,776원=1,387원)와 정확히 일치 확인. 등급: 좋음(1,250~1,400원) — 매우좋음 미달, 첫 알림 이력이라 알림 없음."
+      "note": "상품페이지가 330,900원(정가349,900원)에 배너 프로모션 FESTIVAL 36% 추가할인 적용시 211,776원=25g당1,387원 — 어제 장바구니 실측치와 정확히 일치, 변동 없음. 프로모션 종료예정 2026-09-30 23:59(조기종료 가능 고지). 등급: 좋음(1,250~1,400원) — 매우좋음 미달, 알림 없음."
     },
     "optimum-nutrition-goldstandard-whey-5lb-extrememilkchoc": {
       "brand": "Optimum Nutrition",
@@ -83,13 +83,13 @@
       "servings": 74,
       "source": "오픈마켓 최저가(다나와 교차확인, Coupang 판매자)",
       "url": "https://prod.danawa.com/info/?pcode=16811615",
-      "lastSeenDate": "2026-09-25",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 1585,
       "lastSeenFinalPrice": 112600,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "Banned Substance Tested(자체표기) + Informed-Choice Certified(ON 공식 지원문서 support.optimumnutrition.com에서 'Gold Standard 100% Whey ... is Informed-Choice Certified' 직접 확인, Informed-Sport 전체배치 인증은 아님)",
-      "note": "쿠팡(다나와 가격비교, 72개 판매처 중 최저) 112,600원, 어제와 완전 동일가=25g당1,585원. iHerb 정가169,652원(20%쿠폰가정 135,722원=25g당1,911원)도 쿠팡보다 비쌈. 공식몰 2lb(907g) 64,290원=25g당2,309원 대비 5lb가 약31% 저렴해 대용량이 여전히 유리. 등급: 기다림(>1,550원)이라 알림 없음."
+      "certification": "Informed-Choice(choice.wetestyoutrust.com 등재 재확인, LGC/NSF/ISO/BRCGS 시설인증) + Banned Substance Tested(ON 공식 지원문서 확인, 250+ 금지물질 검사)",
+      "note": "쿠팡(다나와 가격비교, 72개 판매처: G마켓119,700/11번가133,420/옥션162,270보다 저렴) 112,600원, 어제와 완전 동일가=25g당1,585원. 공식몰 2lb(907g) 64,290원=25g당2,309원 대비 5lb가 유리(동일). 공식몰 5lb는 JS옵션갱신이라 페이지가 미확인, iHerb는 React SPA라 실가 확인 불가(둘 다 확인불가). 등급: 기다림(>1,550원)이라 알림 없음."
     },
     "optimum-nutrition-goldstandard-isolate-3lb-chocolatebliss": {
       "brand": "Optimum Nutrition",
@@ -100,14 +100,14 @@
       "servingProteinG": 25,
       "servings": 44,
       "source": "옵티멈뉴트리션 공식몰(할인가) — 쿠팡/다나와 매물(약10.3~11.7만원)은 맛 불명확+병행수입 의심으로 신뢰도 낮아 미채택",
-      "url": "https://www.optimumnutrition.com/ko-kr",
-      "lastSeenDate": "2026-09-25",
+      "url": "https://www.optimumnutrition.com/ko-kr/products/gold-standard-100-isolate-whey-protein-powder",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 2946,
       "lastSeenFinalPrice": 129630,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "Banned Substance Tested(자체표기) + Informed-Choice Certified(ON 공식 지원문서에서 'Gold Standard 100% Isolate ... is Informed-Choice Certified' 직접 확인)",
-      "note": "공식몰(optimumnutrition.com/ko-kr, 직접 재확인) 정상가175,180/할인가129,630원=25g당2,946원, 어제와 완전 동일가. iHerb 정가142,181원(20%쿠폰가정113,745원=25g당2,585원)도 공식몰보다 비싸 공식몰이 확정가 기준 최유리. 다나와/쿠팡 가격비교 '중지' 상태로 오늘도 교차확인 불가. 국내 3lb 외 소용량 옵션 없음. 등급: 기다림(>1,650원)이라 알림 없음."
+      "certification": "Banned Substance Tested(자체표기) + Informed-Choice 등재(choice.wetestyoutrust.com에서 'ON Gold Standard Isolate' 확인) — 단 해당 사이트가 '인증 만료 가능성 있으니 브랜드에 직접 문의' 안내 문구를 명시해 Whey 대비 인증상태 불확실, 추가 확인 필요",
+      "note": "공식몰(optimumnutrition.com/ko-kr, 직접 재확인) 정상가175,180/할인가129,630원=25g당2,946원, 어제와 완전 동일가. 다나와/쿠팡(pcode 28981685) '가격비교 중지 상품' 상태 유지, iHerb는 React SPA라 실가 확인 불가. 국내 3lb(초콜릿블리스/리치바닐라 2종) 외 소용량 옵션 없음(해외 딸기맛 등은 신뢰도 낮아 미채택). 등급: 기다림(>1,650원)이라 알림 없음."
     },
     "myprotein-impact-whey-isolate-900g-unflavored": {
       "brand": "MyProtein",
@@ -117,15 +117,15 @@
       "servingPowderG": 30,
       "servingProteinG": 26,
       "servings": 30,
-      "source": "MyProtein Korea 공식몰 — Playwright 브라우저 자동화로 실제 장바구니 담기 후 할인코드(FESTIVAL) 수동 입력까지 시뮬레이션하여 결제 직전 실가 직접 검증(오늘 최초 성공)",
-      "url": "https://www.myprotein.co.kr/p/sports-nutrition/impact-whey-isolate/10530911/",
-      "lastSeenDate": "2026-09-25",
+      "source": "MyProtein Korea 공식몰 — 오늘은 브라우저 자동화 도구 미제공, curl로 원본 HTML JSON-LD + 배너 할인율(FESTIVAL 36%)로 교차검증(어제 실측 장바구니가와 정확히 일치)",
+      "url": "https://www.myprotein.co.kr/p/sports-nutrition/impact-whey-isolate/10530911/?variation=17716541",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 3075,
       "lastSeenFinalPrice": 95936,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "Informed Choice",
-      "note": "오늘 최초로 장바구니 실가 검증 성공(Playwright). 무맛 900g(30회분, sku 17716541) 페이지 표시가 149,900원(정가159,900원)이나, 장바구니에서 FESTIVAL코드 적용 시 95,936원(정가 대비 약40%할인)=25g당3,075원. 5kg 옵션 오늘도 사이즈 셀렉터에 미노출, 무맛 라인업은 900g만 구매 가능 재확인. 등급: 기다림(>1,650원)이라 알림 없음."
+      "note": "무맛 900g(30회분, sku 17716541) 페이지 표시가 149,900원(정가159,900원)에 FESTIVAL 36% 적용시 95,936원=25g당3,075원 — 어제와 동일. variesBy 속성에 weight(용량) 자체가 없어 900g 단일사이즈만 판매 중임을 재확인(5kg 옵션 없음, 라인은 존재하나 대용량 미판매). 등급: 기다림(>1,650원)이라 알림 없음."
     },
     "nutricost-wpi-5lb-unflavored": {
       "brand": "Nutricost",
@@ -137,13 +137,13 @@
       "servings": 65,
       "source": "iHerb Korea(원본 HTML/JSON-LD 직접 파싱으로 재확인)",
       "url": "https://kr.iherb.com/pr/nutricost-whey-protein-isolate-unflavored-5-lb-2-268-g/145297",
-      "lastSeenDate": "2026-09-25",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 1649,
       "lastSeenFinalPrice": 128613,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "없음 — 오늘 재확인, WPC와 동일하게 전용 인증 배지 없음(Gluten-Free, Non-GMO만 표기)",
-      "note": "iHerb Korea 원본 JSON-LD 직접 파싱(curl) 재확인, 정가160,766원(어제와 동일). 20%쿠폰가정가 128,613원=25g당1,649원 — 어제와 완전 동일, 변동 없음. ⚠재고상태가 어제 'InStock'에서 오늘 'InStockOnlyXLeft'(저재고 경고)로 변경 확인 — 조기 품절 가능성 있어 추후 확인 필요. 소용량 2lb(907g) 정가67,163원(20%쿠폰가정53,730원=25g당1,722원)로 5lb보다 g당 약4~5% 더 비쌈(대용량 유리). 등급: 보통(1,500~1,650원 경계 바로 아래)이라 알림 없음."
+      "certification": "없음 — 오늘 재확인, cert-list 영역 빈 목록(WPC와 동일)",
+      "note": "⚠재고상태 어제 'InStockOnlyXLeft'(저재고)에서 오늘 'OutOfStock'(완전 품절)로 전환 확정 — 구매버튼 영역이 out-of-stock div로 렌더링됨, 가격만 표시되고 장바구니 불가. 가격 자체는 정가160,766원(20%쿠폰가정128,613원=25g당1,649원)으로 어제와 동일 유지(참고치, 현재 구매 불가). 대안: 소용량 2lb(907g)는 InStock, 정가67,163원(20%쿠폰가정53,730원=25g당1,722원)로 5lb보다 g당 약4~5% 비싸지만 당장 구매 가능한 유일 옵션. 등급 참고: 보통(1,500~1,650원)이나 품절이라 알림 대상 아님, 재입고 여부 추후 확인 필요."
     },
     "now-foods-wpc-5lb-unflavored": {
       "brand": "NOW Foods",
@@ -161,25 +161,25 @@
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "GMP, Informed Sport - Trusted by Sport(iHerb 상세설명에서 직접 확인)",
-      "note": "오픈마켓(옥션 109,840원/G마켓 109,850원, 다나와 교차확인, 무료배송) 옥션 최저가 채택=25g당1,658원, 어제와 완전 동일가. iHerb Korea 원본 URL curl 재파싱 결과 5lb(ID 58451)/1.5lb(ID 58450) 모두 재고상태 OutOfStock 재확인(어제의 '리다이렉트' 현상 아니라 실제 품절로 재검증). 소용량(680g) 39,050원≈25g당1,972원으로 5lb가 g당 더 저렴. 등급: 기다림(>1,550원)이라 알림 없음."
+      "note": "⚠오늘(09/26) 오픈마켓 최저가 재검증 실패 — 옥션/G마켓 직접 접근 403 봇차단, 네이버쇼핑 418 봇차단, 다나와 해당 SKU(pcode=30082004)는 '가격비교 서비스 종료 상품'으로 전환되어 유효 페이지 소실. 검색엔진 요약상 91,910원 언급이 있었으나 출처 불명확해 미채택. 아래 lastSeenDate/가격은 09/25 값 그대로 유지(신뢰하지 말고 재확인 필요, CAPTCHA 우회 시도 안 함). iHerb 5lb(ID 58451)/1.5lb(ID 58450, 참고가 46,544원으로 변동됐으나 품절 중이라 무의미) 모두 OutOfStock 지속 재확인. 등급 참고: 기다림(>1,550원)이나 최신 가격 미확인 상태."
     },
     "dymatize-iso100-wpiblend-2.3kg-vanillachocpb": {
       "brand": "Dymatize",
       "productType": "WPI",
-      "flavor": "퍼지 브라우니/고메 초콜릿/버스데이케이크 3종 동률 최저가(어제와 다른 그룹, 초콜릿 피넛버터는 149,600원으로 이탈, 쿠키앤크림 219,420원 고점권 제외)",
+      "flavor": "퍼지브라우니/고메초콜릿/고메바닐라/버스데이케이크/쿠키앤크림 5종 동률 최저가(어제 3종에서 확대)",
       "sizeLabel": "2.3kg(5lb, 76회분)",
       "servingPowderG": 30,
       "servingProteinG": 25,
       "servings": 76,
-      "source": "쿠팡 실시간 가격트래커(cowlr.kr) — iHerb는 MAP정책으로 가격 미노출",
+      "source": "쿠팡 실시간 가격트래커(cowlr.kr) — 쿠팡 원본 페이지 직접 접근은 403 봇차단, iHerb는 MAP정책 추정으로 가격 미노출",
       "url": "https://www.cowlr.kr/protein/130",
-      "lastSeenDate": "2026-09-25",
+      "lastSeenDate": "2026-09-26",
       "lastSeenPrice25g": 1658,
       "lastSeenFinalPrice": 125980,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
-      "certification": "Informed-Choice - Trusted by Sport(choice.wetestyoutrust.com 공식 등재 재확인)",
-      "note": "쿠팡 실시간 가격트래커(cowlr.kr, 09/25 확인) 퍼지브라우니/고메초콜릿/버스데이케이크 3종 동률 125,980원=25g당1,658원 — 어제와 완전 동일, 변동 없음. iHerb는 오늘도 MAP정책으로 가격 비노출 재확인. 소용량 1.4kg 고메바닐라 약85,870원대(≈25g당1,900원대, 미검증 참고치)로 대용량 최저가 그룹이 여전히 더 경제적. 등급: 기다림(1,650원 근소 초과)이라 알림 없음."
+      "certification": "Informed-Choice(Trusted by Sport) — choice.wetestyoutrust.com에 'ISO100 Hydrolyzed Protein Powder(USA)' 등재 재확인",
+      "note": "쿠팡 실시간 가격트래커(cowlr.kr, 09/26 확인) 5종 동률 125,980원=25g당1,658원 — 어제와 완전 동일, 변동 없음. 소용량 1.4kg 고메바닐라 약88,240원(약45~47회분)=25g당약1,961원으로 2.3kg 대비 약18% 더 비쌈(대용량 유리 재확인). 등급: 기다림(1,650원 근소 초과)이라 알림 없음."
     },
     "californiagold-nutrition-wpi-5lb-unflavored": {
       "brand": "California Gold Nutrition",
