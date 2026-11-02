@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T10:00:00+09:00",
+  "lastUpdated": "2026-11-02T09:30:00+09:00",
   "products": {
     "now-sports-wpi-5lb-unflavored": {
       "brand": "NOW Sports",
@@ -166,16 +166,16 @@
     "dymatize-iso100-wpiblend-2.3kg-vanillachocpb": {
       "brand": "Dymatize",
       "productType": "WPI",
-      "flavor": "프루티 페블(Fruity Pebbles)",
+      "flavor": "퍼지 브라우니(Fudge Brownie)",
       "sizeLabel": "2.3kg(5lb, 76회분)",
       "servingPowderG": 30,
       "servingProteinG": 25,
       "servings": 76,
-      "source": "쿠팡 실시간 가격트래커(cowlr.kr /protein/130) 26.11.01 기준, 최저가 맛=프루티 페블 2.3kg 128,360원",
+      "source": "쿠팡 cowlr.kr /protein/129 26.11.02 08:51 (확인한 4개 맛 중 최저, 프루티페블 등 일부 맛은 미확인)",
       "url": "https://www.cowlr.kr/protein/130",
-      "lastSeenDate": "2026-11-01",
-      "lastSeenPrice25g": 1689,
-      "lastSeenFinalPrice": 128360,
+      "lastSeenDate": "2026-11-02",
+      "lastSeenPrice25g": 1832,
+      "lastSeenFinalPrice": 139230,
       "lastAlertedDate": null,
       "lastAlertedPrice25g": null,
       "certification": "Informed-Choice(Trusted by Sport, LGC 검사) — choice.wetestyoutrust.com 등재 이력 확인(오늘은 상품페이지 자체에 배지 미표시, 레지스트리 재조회는 안 함)",
